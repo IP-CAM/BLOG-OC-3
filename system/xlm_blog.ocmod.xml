@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modification>
+	<name><![CDATA[Xlm Blogs]]></name>
+    <version><![CDATA[1.0.0]]></version>
+    <author><![CDATA[Xolomo - Xolomo.com]]></author>
+    <file path="catalog/controller/startup/seo_url.php">
+
+    	   <operation>
+    			<search><![CDATA[if ($url[0] == 'information_id') {]]></search>
+    			<add  position="before"><![CDATA[
+            if ($url[0] == 'blog_id') {
+  						$this->request->get['blog_id'] = $url[1];
+  					}
+
+  					if ($url[0] == 'blog_category_id') {
+  						$this->request->get['blogpath'] = $url[1];
+  					}
+          ]]></add>
+    		</operation>
+
+    	   <operation>
+    			<search><![CDATA[$url[0] != 'information_id']]></search>
+    			<add  position="iafter"><![CDATA[$url[0] != 'information_id' && $url[0] != 'blog_id' && $url[0] != 'blog_category_id' ]]></add>
+    		</operation>
+
+    	   <operation>
+    			<search><![CDATA[$this->request->get['route'] = 'information/information';]]></search>
+    			<add  position="after" offset="1"><![CDATA[elseif (isset($this->request->get['blog_id'])) {
+  					$this->request->get['route'] = 'xlm_blog/blog';
+  				} elseif (isset($this->request->get['blogpath'])) {
+  					$this->request->get['route'] = 'xlm_blog/category';
+  				}
+          ]]></add>
+    		</operation>
+
+    	   <operation>
+    			<search><![CDATA[($data['route'] == 'product/product' && $key == 'product_id')]]></search>
+    			<add  position="iafter"><![CDATA[($data['route'] == 'product/product' && $key == 'product_id') || ($data['route'] == 'xlm_blog/blog' && $key == 'blog_id')]]></add>
+    		</operation>
+
+    	   <operation>
+    			<search><![CDATA[} elseif ($key == 'path') {]]></search>
+    			<add position="before"><![CDATA[
+            }elseif ($key == 'blogpath') {
+  					$categories = explode('_', $value);
+
+  					foreach ($categories as $category) {
+  						$query = $this->db->query("SELECT * FROM " . DB_PREFIX . "url_alias WHERE `query` = 'blog_category_id=" . (int)$category . "'");
+
+  						if ($query->num_rows && $query->row['keyword']) {
+  							$url .= '/' . $query->row['keyword'];
+  						} else {
+  							$url = '';
+
+  							break;
+  						}
+  					}
+
+  					unset($data[$key]);
+  				]]></add>
+    		</operation>
+
+    	</file>
+
+
+      <file path="admin/controller/common/column_left.php">
+
+	   <operation>
+			<search><![CDATA[$marketplace = array();]]></search>
+			<add  position="before"><![CDATA[
+				$xlm_blog = array();
+				if ($this->user->hasPermission('access', 'xlm_blog/blog')) {
+					$xlm_blog[] = array(
+						'name'	   => 'Post',
+						'href'     => $this->url->link('xlm_blog/blog', 'user_token=' . $this->session->data['user_token'], true),
+						'children' => array()
+					);
+				}
+				if ($this->user->hasPermission('access', 'xlm_blog/category')) {
+					$xlm_blog[] = array(
+						'name'	   => 'Category',
+						'href'     => $this->url->link('xlm_blog/category', 'user_token=' . $this->session->data['user_token'], true),
+						'children' => array()
+					);
+				}
+
+        if ($xlm_blog) {
+					$data['menus'][] = array(
+						'id'       => 'menu-xlm-blog',
+						'icon'	   => 'fa-newspaper-o',
+						'name'	   => 'Blogs',
+						'href'     => '',
+						'children' => $xlm_blog
+					);
+				}
+
+
+        ]]></add>
+      </operation>
+
+    </file>
+
+
+  </modification>

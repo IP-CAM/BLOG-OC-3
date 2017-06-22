@@ -1,0 +1,642 @@
+2017-06-15 11:35:01 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 48
+LINE: 106
+LINE: 118
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig_Loader_Filesystem(DIR_TEMPLATE);
+LINE: 13
+----------------------------------------------------------------
+MOD: Xlm Blogs
+
+FILE: catalog/controller/startup/seo_url.php
+CODE: if ($url[0] == 'information_id') {
+LINE: 48
+----------------------------------------------------------------
+2017-06-15 11:40:55 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 48
+LINE: 106
+LINE: 118
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig_Loader_Filesystem(DIR_TEMPLATE);
+LINE: 13
+----------------------------------------------------------------
+MOD: Xlm Blogs
+
+FILE: catalog/controller/startup/seo_url.php
+CODE: if ($url[0] == 'information_id') {
+LINE: 48
+CODE: if ($query->row['query'] && $url[0] != 'information_id'
+LINE: 53
+CODE: $this->request->get['route'] = 'information/information';
+LINE: 78
+CODE: } elseif ($key == 'path') {
+LINE: 121
+----------------------------------------------------------------
+2017-06-15 11:40:57 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 48
+LINE: 106
+LINE: 118
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig_Loader_Filesystem(DIR_TEMPLATE);
+LINE: 13
+----------------------------------------------------------------
+MOD: Xlm Blogs
+
+FILE: catalog/controller/startup/seo_url.php
+CODE: if ($url[0] == 'information_id') {
+LINE: 48
+CODE: if ($query->row['query'] && $url[0] != 'information_id'
+LINE: 53
+CODE: $this->request->get['route'] = 'information/information';
+LINE: 78
+CODE: } elseif ($key == 'path') {
+LINE: 121
+----------------------------------------------------------------
+2017-06-15 11:42:23 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 48
+LINE: 106
+LINE: 118
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig_Loader_Filesystem(DIR_TEMPLATE);
+LINE: 13
+----------------------------------------------------------------
+MOD: Xlm Blogs
+
+FILE: catalog/controller/startup/seo_url.php
+CODE: if ($url[0] == 'information_id') {
+LINE: 48
+CODE: if ($query->row['query'] && $url[0] != 'information_id'
+LINE: 53
+CODE: $this->request->get['route'] = 'information/information';
+LINE: 77
+CODE: } elseif ($key == 'path') {
+LINE: 120
+----------------------------------------------------------------
+2017-06-15 11:42:53 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 48
+LINE: 106
+LINE: 118
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig_Loader_Filesystem(DIR_TEMPLATE);
+LINE: 13
+----------------------------------------------------------------
+MOD: Xlm Blogs
+
+FILE: catalog/controller/startup/seo_url.php
+CODE: if ($url[0] == 'information_id') {
+LINE: 48
+CODE: if ($query->row['query'] && $url[0] != 'information_id'
+LINE: 52
+CODE: $this->request->get['route'] = 'information/information';
+LINE: 76
+CODE: } elseif ($key == 'path') {
+LINE: 119
+----------------------------------------------------------------
+2017-06-15 11:43:35 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 48
+LINE: 106
+LINE: 118
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig_Loader_Filesystem(DIR_TEMPLATE);
+LINE: 13
+----------------------------------------------------------------
+MOD: Xlm Blogs
+
+FILE: catalog/controller/startup/seo_url.php
+CODE: if ($url[0] == 'information_id') {
+LINE: 48
+CODE: $url[0] != 'information_id'
+LINE: 52
+CODE: $this->request->get['route'] = 'information/information';
+LINE: 76
+CODE: } elseif ($key == 'path') {
+LINE: 119
+----------------------------------------------------------------
+2017-06-15 11:47:07 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 48
+LINE: 106
+LINE: 118
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig_Loader_Filesystem(DIR_TEMPLATE);
+LINE: 13
+----------------------------------------------------------------
+MOD: Xlm Blogs
+
+FILE: catalog/controller/startup/seo_url.php
+CODE: if ($url[0] == 'information_id') {
+LINE: 48
+CODE: $url[0] != 'information_id'
+LINE: 52
+CODE: $this->request->get['route'] = 'information/information';
+LINE: 76
+CODE: ($data['route'] == 'product/product' && $key == 'product_id')
+LINE: 93
+CODE: } elseif ($key == 'path') {
+LINE: 119
+----------------------------------------------------------------
+2017-06-15 11:53:57 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 48
+LINE: 106
+LINE: 118
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig_Loader_Filesystem(DIR_TEMPLATE);
+LINE: 13
+----------------------------------------------------------------
+MOD: Xlm Blogs
+
+FILE: catalog/controller/startup/seo_url.php
+CODE: if ($url[0] == 'information_id') {
+LINE: 48
+CODE: $url[0] != 'information_id'
+LINE: 52
+CODE: $this->request->get['route'] = 'information/information';
+LINE: 76
+CODE: ($data['route'] == 'product/product' && $key == 'product_id')
+LINE: 93
+CODE: } elseif ($key == 'path') {
+LINE: 119
+
+FILE: admin/controller/common/column_left.php
+CODE: $design = array();
+LINE: 275
+----------------------------------------------------------------
+2017-06-15 11:54:23 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 48
+LINE: 106
+LINE: 118
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig_Loader_Filesystem(DIR_TEMPLATE);
+LINE: 13
+----------------------------------------------------------------
+MOD: Xlm Blogs
+
+FILE: catalog/controller/startup/seo_url.php
+CODE: if ($url[0] == 'information_id') {
+LINE: 48
+CODE: $url[0] != 'information_id'
+LINE: 52
+CODE: $this->request->get['route'] = 'information/information';
+LINE: 76
+CODE: ($data['route'] == 'product/product' && $key == 'product_id')
+LINE: 93
+CODE: } elseif ($key == 'path') {
+LINE: 119
+
+FILE: admin/controller/common/column_left.php
+CODE: $design = array();
+LINE: 275
+----------------------------------------------------------------
+2017-06-15 11:54:35 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 48
+LINE: 106
+LINE: 118
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig_Loader_Filesystem(DIR_TEMPLATE);
+LINE: 13
+----------------------------------------------------------------
+MOD: Xlm Blogs
+
+FILE: catalog/controller/startup/seo_url.php
+CODE: if ($url[0] == 'information_id') {
+LINE: 48
+CODE: $url[0] != 'information_id'
+LINE: 52
+CODE: $this->request->get['route'] = 'information/information';
+LINE: 76
+CODE: ($data['route'] == 'product/product' && $key == 'product_id')
+LINE: 93
+CODE: } elseif ($key == 'path') {
+LINE: 119
+
+FILE: admin/controller/common/column_left.php
+CODE: $design = array();
+LINE: 275
+----------------------------------------------------------------
+2017-06-15 11:54:49 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 48
+LINE: 106
+LINE: 118
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig_Loader_Filesystem(DIR_TEMPLATE);
+LINE: 13
+----------------------------------------------------------------
+MOD: Xlm Blogs
+
+FILE: catalog/controller/startup/seo_url.php
+CODE: if ($url[0] == 'information_id') {
+LINE: 48
+CODE: $url[0] != 'information_id'
+LINE: 52
+CODE: $this->request->get['route'] = 'information/information';
+LINE: 76
+CODE: ($data['route'] == 'product/product' && $key == 'product_id')
+LINE: 93
+CODE: } elseif ($key == 'path') {
+LINE: 119
+
+FILE: admin/controller/common/column_left.php
+CODE: $design = array();
+LINE: 275
+----------------------------------------------------------------
+2017-06-15 11:55:39 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 48
+LINE: 106
+LINE: 118
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig_Loader_Filesystem(DIR_TEMPLATE);
+LINE: 13
+----------------------------------------------------------------
+MOD: Xlm Blogs
+
+FILE: catalog/controller/startup/seo_url.php
+CODE: if ($url[0] == 'information_id') {
+LINE: 48
+CODE: $url[0] != 'information_id'
+LINE: 52
+CODE: $this->request->get['route'] = 'information/information';
+LINE: 76
+CODE: ($data['route'] == 'product/product' && $key == 'product_id')
+LINE: 93
+CODE: } elseif ($key == 'path') {
+LINE: 119
+
+FILE: admin/controller/common/column_left.php
+CODE: $marketplace = array();
+LINE: 184
+----------------------------------------------------------------
+2017-06-15 11:56:15 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 48
+LINE: 106
+LINE: 118
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig_Loader_Filesystem(DIR_TEMPLATE);
+LINE: 13
+----------------------------------------------------------------
+MOD: Xlm Blogs
+
+FILE: catalog/controller/startup/seo_url.php
+CODE: if ($url[0] == 'information_id') {
+LINE: 48
+CODE: $url[0] != 'information_id'
+LINE: 52
+CODE: $this->request->get['route'] = 'information/information';
+LINE: 76
+CODE: ($data['route'] == 'product/product' && $key == 'product_id')
+LINE: 93
+CODE: } elseif ($key == 'path') {
+LINE: 119
+
+FILE: admin/controller/common/column_left.php
+CODE: $marketplace = array();
+LINE: 184
+----------------------------------------------------------------
+2017-06-15 11:58:50 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 48
+LINE: 106
+LINE: 118
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig_Loader_Filesystem(DIR_TEMPLATE);
+LINE: 13
+----------------------------------------------------------------
+MOD: Xlm Blogs
+
+FILE: catalog/controller/startup/seo_url.php
+CODE: if ($url[0] == 'information_id') {
+LINE: 48
+CODE: $url[0] != 'information_id'
+LINE: 52
+CODE: $this->request->get['route'] = 'information/information';
+LINE: 76
+CODE: ($data['route'] == 'product/product' && $key == 'product_id')
+LINE: 93
+CODE: } elseif ($key == 'path') {
+LINE: 119
+
+FILE: admin/controller/common/column_left.php
+CODE: $marketplace = array();
+LINE: 184
+----------------------------------------------------------------
+2017-06-15 12:06:15 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 48
+LINE: 106
+LINE: 118
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig_Loader_Filesystem(DIR_TEMPLATE);
+LINE: 13
+----------------------------------------------------------------
+MOD: Xlm Blogs
+
+FILE: catalog/controller/startup/seo_url.php
+CODE: if ($url[0] == 'information_id') {
+LINE: 48
+CODE: $url[0] != 'information_id'
+LINE: 52
+CODE: $this->request->get['route'] = 'information/information';
+LINE: 76
+CODE: ($data['route'] == 'product/product' && $key == 'product_id')
+LINE: 93
+CODE: } elseif ($key == 'path') {
+LINE: 119
+
+FILE: admin/controller/common/column_left.php
+CODE: $marketplace = array();
+LINE: 184
+----------------------------------------------------------------
+2017-06-15 12:09:15 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 48
+LINE: 106
+LINE: 118
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig_Loader_Filesystem(DIR_TEMPLATE);
+LINE: 13
+----------------------------------------------------------------
+MOD: Xlm Blogs
+
+FILE: catalog/controller/startup/seo_url.php
+CODE: if ($url[0] == 'information_id') {
+LINE: 48
+CODE: $url[0] != 'information_id'
+LINE: 52
+CODE: $this->request->get['route'] = 'information/information';
+LINE: 76
+CODE: ($data['route'] == 'product/product' && $key == 'product_id')
+LINE: 93
+CODE: } elseif ($key == 'path') {
+LINE: 119
+
+FILE: admin/controller/common/column_left.php
+CODE: $marketplace = array();
+LINE: 184
+----------------------------------------------------------------

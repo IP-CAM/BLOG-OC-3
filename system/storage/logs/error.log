@@ -1,0 +1,775 @@
+2017-05-30 13:40:48 - PHP Warning:  Cannot modify header information - headers already sent in /Users/binhtran/Documents/OPENCART/opencart-dev/system/framework.php on line 108
+2017-05-30 13:41:22 - PHP Notice:  Undefined index: rating_total in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/marketplace/marketplace.php on line 607
+2017-05-30 13:43:24 - PHP Notice:  Undefined index: rating_total in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/marketplace/marketplace.php on line 607
+2017-05-30 18:25:08 - PHP Notice:  Undefined index: path in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/extension/module/filter.php on line 37
+2017-05-30 18:25:09 - PHP Notice:  Undefined index: path in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/extension/module/filter.php on line 37
+2017-06-11 5:22:15 - PHP Warning:  Invalid argument supplied for foreach() in /Users/binhtran/Documents/OPENCART/opencart-dev/system/engine/loader.php on line 54
+2017-06-11 5:23:01 - PHP Warning:  Invalid argument supplied for foreach() in /Users/binhtran/Documents/OPENCART/opencart-dev/system/engine/loader.php on line 54
+2017-06-11 5:23:11 - PHP Warning:  Invalid argument supplied for foreach() in /Users/binhtran/Documents/OPENCART/opencart-dev/system/engine/loader.php on line 54
+2017-06-11 5:23:12 - PHP Warning:  Invalid argument supplied for foreach() in /Users/binhtran/Documents/OPENCART/opencart-dev/system/engine/loader.php on line 54
+2017-06-11 5:23:13 - PHP Warning:  Invalid argument supplied for foreach() in /Users/binhtran/Documents/OPENCART/opencart-dev/system/engine/loader.php on line 54
+2017-06-11 5:23:29 - PHP Warning:  Invalid argument supplied for foreach() in /Users/binhtran/Documents/OPENCART/opencart-dev/system/engine/loader.php on line 54
+2017-06-11 5:23:52 - PHP Warning:  Invalid argument supplied for foreach() in /Users/binhtran/Documents/OPENCART/opencart-dev/system/engine/loader.php on line 54
+2017-06-11 5:23:58 - PHP Warning:  Invalid argument supplied for foreach() in /Users/binhtran/Documents/OPENCART/opencart-dev/system/engine/loader.php on line 54
+2017-06-11 5:24:46 - PHP Warning:  Invalid argument supplied for foreach() in /Users/binhtran/Documents/OPENCART/opencart-dev/system/engine/loader.php on line 54
+2017-06-11 5:24:48 - PHP Warning:  Invalid argument supplied for foreach() in /Users/binhtran/Documents/OPENCART/opencart-dev/system/engine/loader.php on line 54
+2017-06-11 5:24:49 - PHP Warning:  Invalid argument supplied for foreach() in /Users/binhtran/Documents/OPENCART/opencart-dev/system/engine/loader.php on line 54
+2017-06-11 5:24:49 - PHP Warning:  Invalid argument supplied for foreach() in /Users/binhtran/Documents/OPENCART/opencart-dev/system/engine/loader.php on line 54
+2017-06-11 5:24:50 - PHP Warning:  Invalid argument supplied for foreach() in /Users/binhtran/Documents/OPENCART/opencart-dev/system/engine/loader.php on line 54
+2017-06-11 5:24:50 - PHP Warning:  Invalid argument supplied for foreach() in /Users/binhtran/Documents/OPENCART/opencart-dev/system/engine/loader.php on line 54
+2017-06-11 5:24:50 - PHP Warning:  Invalid argument supplied for foreach() in /Users/binhtran/Documents/OPENCART/opencart-dev/system/engine/loader.php on line 54
+2017-06-11 5:24:51 - PHP Warning:  Invalid argument supplied for foreach() in /Users/binhtran/Documents/OPENCART/opencart-dev/system/engine/loader.php on line 54
+2017-06-11 5:24:51 - PHP Warning:  Invalid argument supplied for foreach() in /Users/binhtran/Documents/OPENCART/opencart-dev/system/engine/loader.php on line 54
+2017-06-11 5:24:59 - PHP Warning:  Invalid argument supplied for foreach() in /Users/binhtran/Documents/OPENCART/opencart-dev/system/engine/loader.php on line 54
+2017-06-11 5:25:20 - PHP Warning:  Invalid argument supplied for foreach() in /Users/binhtran/Documents/OPENCART/opencart-dev/system/engine/loader.php on line 54
+2017-06-11 5:26:35 - PHP Notice:  Undefined index: firstname in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/xlm_blog/post.php on line 444
+2017-06-11 5:26:35 - PHP Notice:  Undefined index: lastname in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/xlm_blog/post.php on line 448
+2017-06-11 5:26:35 - PHP Notice:  Undefined index: email in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/xlm_blog/post.php on line 452
+2017-06-11 5:26:35 - PHP Notice:  Undefined index: email in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/xlm_blog/post.php on line 452
+2017-06-11 5:26:35 - PHP Notice:  Undefined index: email in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/xlm_blog/post.php on line 456
+2017-06-11 5:26:58 - PHP Notice:  Undefined index: post_category_id in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/model/xlm_blog/post.php on line 6
+2017-06-11 5:27:26 - PHP Notice:  Undefined index: blog_category_id in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/model/xlm_blog/post.php on line 6
+2017-06-11 5:27:26 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/startup/error.php:34) in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/response.php on line 12
+2017-06-11 11:04:14 - PHP Notice:  Undefined index: name in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/model/xlm_blog/category.php on line 5
+2017-06-11 11:04:14 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/startup/error.php:34) in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/response.php on line 12
+2017-06-11 11:08:38 - PHP Warning:  Invalid argument supplied for foreach() in /Users/binhtran/Documents/OPENCART/opencart-dev/system/engine/loader.php on line 54
+2017-06-11 11:10:02 - PHP Notice:  Undefined index: category_id in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/xlm_blog/category.php on line 209
+2017-06-11 11:10:02 - PHP Notice:  Undefined index: category_id in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/xlm_blog/category.php on line 212
+2017-06-11 11:10:02 - PHP Notice:  Undefined index: category_id in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/xlm_blog/category.php on line 213
+2017-06-11 11:10:08 - PHP Notice:  Undefined index: category_id in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/xlm_blog/category.php on line 209
+2017-06-11 11:10:08 - PHP Notice:  Undefined index: category_id in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/xlm_blog/category.php on line 212
+2017-06-11 11:10:08 - PHP Notice:  Undefined index: category_id in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/xlm_blog/category.php on line 213
+2017-06-11 11:17:12 - PHP Notice:  Undefined index: title in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/xlm_blog/post.php on line 177
+2017-06-11 11:17:12 - PHP Notice:  Undefined index: sort_order in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/xlm_blog/post.php on line 178
+2017-06-11 11:17:50 - PHP Notice:  Undefined index: name in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/xlm_blog/post.php on line 177
+2017-06-11 11:17:50 - PHP Notice:  Undefined index: sort_order in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/xlm_blog/post.php on line 178
+2017-06-11 11:17:51 - PHP Notice:  Undefined index: name in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/xlm_blog/post.php on line 177
+2017-06-11 11:17:51 - PHP Notice:  Undefined index: sort_order in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/xlm_blog/post.php on line 178
+2017-06-11 11:18:37 - PHP Notice:  Undefined index: sort_order in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/xlm_blog/post.php on line 178
+2017-06-11 11:31:14 - PHP Notice:  Undefined index: blog_category_description in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/model/xlm_blog/category.php on line 60
+2017-06-11 11:31:14 - PHP Warning:  Invalid argument supplied for foreach() in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/model/xlm_blog/category.php on line 60
+2017-06-11 11:31:14 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/startup/error.php:34) in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/response.php on line 12
+2017-06-11 11:31:43 - PHP Notice:  Undefined index: blog_category_description in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/model/xlm_blog/category.php on line 60
+2017-06-11 11:31:43 - PHP Warning:  Invalid argument supplied for foreach() in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/model/xlm_blog/category.php on line 60
+2017-06-11 11:31:43 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/startup/error.php:34) in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/response.php on line 12
+2017-06-11 11:32:01 - PHP Notice:  Undefined index: blog_category_description in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/model/xlm_blog/category.php on line 60
+2017-06-11 11:32:01 - PHP Warning:  Invalid argument supplied for foreach() in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/model/xlm_blog/category.php on line 60
+2017-06-11 11:32:01 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/startup/error.php:34) in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/response.php on line 12
+2017-06-11 11:32:11 - PHP Notice:  Undefined index: category_description in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/xlm_blog/category.php on line 526
+2017-06-11 11:32:11 - PHP Warning:  Invalid argument supplied for foreach() in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/xlm_blog/category.php on line 526
+2017-06-11 11:32:11 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/startup/error.php:34) in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/response.php on line 12
+2017-06-11 11:47:12 - PHP Notice:  Undefined index: meta_name in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/model/xlm_blog/blog.php on line 9
+2017-06-11 11:47:38 - PHP Notice:  Undefined index: meta_name in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/model/xlm_blog/blog.php on line 9
+2017-06-11 12:02:09 - PHP Notice:  Undefined index: meta_name in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/model/xlm_blog/blog.php on line 39
+2017-06-11 12:07:42 - PHP Notice:  Undefined variable: blog in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/common/column_left.php on line 156
+2017-06-11 12:30:28 - PHP Warning:  Invalid argument supplied for foreach() in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/model/xlm_blog/blog.php on line 24
+2017-06-11 12:30:28 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/startup/error.php:34) in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/response.php on line 12
+2017-06-11 12:30:55 - PHP Warning:  Invalid argument supplied for foreach() in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/model/xlm_blog/blog.php on line 24
+2017-06-11 12:30:55 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/startup/error.php:34) in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/response.php on line 12
+2017-06-11 14:12:51 - PHP Notice:  Undefined index: keyword in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/model/xlm_blog/blog.php on line 41
+2017-06-11 14:12:51 - PHP Notice:  Undefined index: keyword in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/model/xlm_blog/blog.php on line 41
+2017-06-11 14:12:51 - PHP Notice:  Undefined index: keyword in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/model/xlm_blog/blog.php on line 41
+2017-06-11 14:12:51 - PHP Notice:  Undefined index: keyword in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/model/xlm_blog/blog.php on line 41
+2017-06-11 14:12:51 - PHP Notice:  Undefined index: keyword in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/model/xlm_blog/blog.php on line 41
+2017-06-11 14:12:51 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/startup/error.php:34) in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/response.php on line 12
+2017-06-11 14:39:57 - PHP Notice:  Undefined index: name in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/xlm_blog/blog.php on line 461
+2017-06-11 15:50:19 - PHP Notice:  Undefined index: style in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/extension/module/blog_latest.php on line 98
+2017-06-11 15:50:19 - PHP Notice:  Undefined index: margin in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/extension/module/blog_latest.php on line 106
+2017-06-11 15:50:19 - PHP Notice:  Undefined index: column in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/extension/module/blog_latest.php on line 114
+2017-06-11 15:50:19 - PHP Notice:  Undefined index: source_type in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/extension/module/blog_latest.php on line 122
+2017-06-11 15:51:37 - PHP Notice:  Undefined index: style in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/extension/module/blog_latest.php on line 98
+2017-06-11 15:51:37 - PHP Notice:  Undefined index: margin in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/extension/module/blog_latest.php on line 106
+2017-06-11 15:51:37 - PHP Notice:  Undefined index: column in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/extension/module/blog_latest.php on line 114
+2017-06-11 15:51:37 - PHP Notice:  Undefined index: source_type in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/extension/module/blog_latest.php on line 122
+2017-06-11 15:52:33 - PHP Notice:  Undefined index: style in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/extension/module/blog_latest.php on line 98
+2017-06-11 15:52:33 - PHP Notice:  Undefined index: margin in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/extension/module/blog_latest.php on line 106
+2017-06-11 15:52:33 - PHP Notice:  Undefined index: column in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/extension/module/blog_latest.php on line 114
+2017-06-11 15:52:33 - PHP Notice:  Undefined index: source_type in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/extension/module/blog_latest.php on line 122
+2017-06-11 15:53:03 - PHP Notice:  Undefined index: margin in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/extension/module/blog_latest.php on line 106
+2017-06-11 15:53:03 - PHP Notice:  Undefined index: column in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/extension/module/blog_latest.php on line 114
+2017-06-11 15:53:03 - PHP Notice:  Undefined index: source_type in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/extension/module/blog_latest.php on line 122
+2017-06-11 16:54:22 - PHP Notice:  Undefined index: source_type in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/extension/module/blog_latest.php on line 222
+2017-06-11 17:11:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:11:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:11:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:11:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:11:47 - PHP Warning:  Division by zero in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 313
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:19 - PHP Warning:  Division by zero in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 313
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:35 - PHP Warning:  Division by zero in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 313
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:54 - PHP Warning:  Division by zero in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 313
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:55 - PHP Warning:  Division by zero in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 313
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Warning:  Division by zero in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 313
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Warning:  Division by zero in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 313
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Warning:  Division by zero in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 313
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Notice:  Undefined variable: image in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:12:56 - PHP Warning:  Division by zero in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 313
+2017-06-11 17:13:05 - PHP Warning:  Division by zero in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 313
+2017-06-11 17:15:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:46 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:46 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:46 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:15:47 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:15:47 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:15:47 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:15:47 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 109
+2017-06-11 17:16:22 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 117
+2017-06-11 17:16:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 120
+2017-06-11 17:16:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /Users/binhtran/Documents/OPENCART/opencart-dev/system/library/image.php on line 122
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:16:58 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 17:17:14 - PHP Notice:  Undefined variable: thumb in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/category.php on line 183
+2017-06-11 18:04:05 - PHP Notice:  Undefined index: title in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/blog.php on line 29
+2017-06-11 18:04:05 - PHP Notice:  Undefined index: title in /Users/binhtran/Documents/OPENCART/opencart-dev/catalog/controller/xlm_blog/blog.php on line 33
+2017-06-15 11:40:01 - PHP Warning:  DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 34 in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/marketplace/modification.php on line 143
+2017-06-15 11:40:01 - PHP Warning:  DOMDocument::loadXML(): attributes construct error in Entity, line: 34 in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/marketplace/modification.php on line 143
+2017-06-15 11:40:01 - PHP Warning:  DOMDocument::loadXML(): Couldn't find end of Start Tag add line 34 in Entity, line: 34 in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/marketplace/modification.php on line 143
+2017-06-15 11:40:01 - PHP Warning:  DOMDocument::loadXML(): Opening and ending tag mismatch: operation line 32 and add in Entity, line: 50 in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/marketplace/modification.php on line 143
+2017-06-15 11:40:01 - PHP Warning:  DOMDocument::loadXML(): Opening and ending tag mismatch: file line 6 and operation in Entity, line: 51 in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/marketplace/modification.php on line 143
+2017-06-15 11:40:01 - PHP Warning:  DOMDocument::loadXML(): Opening and ending tag mismatch: modification line 2 and file in Entity, line: 53 in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/marketplace/modification.php on line 143
+2017-06-15 11:40:01 - PHP Warning:  DOMDocument::loadXML(): Extra content at the end of the document in Entity, line: 55 in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/marketplace/modification.php on line 143
+2017-06-15 11:40:01 - PHP Notice:  Trying to get property of non-object in /Users/binhtran/Documents/OPENCART/opencart-dev/admin/controller/marketplace/modification.php on line 146
+2017-06-15 11:53:57 - PHP Notice:  Undefined index: token in /Users/binhtran/Documents/OPENCART/opencart-dev/system/storage/modification/admin/controller/common/column_left.php on line 252
+2017-06-15 11:53:57 - PHP Notice:  Undefined index: token in /Users/binhtran/Documents/OPENCART/opencart-dev/system/storage/modification/admin/controller/common/column_left.php on line 259
+2017-06-15 11:53:57 - PHP Notice:  Undefined variable: extension in /Users/binhtran/Documents/OPENCART/opencart-dev/system/storage/modification/admin/controller/common/column_left.php on line 264
+2017-06-15 11:54:23 - PHP Notice:  Undefined variable: extension in /Users/binhtran/Documents/OPENCART/opencart-dev/system/storage/modification/admin/controller/common/column_left.php on line 264

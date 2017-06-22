@@ -1,0 +1,86 @@
+{{ header }}
+
+
+{% if cover %}
+<div class="bgcover" style="background-image:url({{ cover }})">
+    <div class="bgtrans">
+        <h1>Trên tay Oppo R11 và R11 Plus: Bản sao "màu mè" của iPhone 7 Plus</h1>
+        <div class="userdetail">
+                <a href="/tin-tuc/profile/2004805">
+                    <img width="20" height="20" src="https://graph.facebook.com/1741615869438482/picture">
+                    TQ Hội</a>
+
+            <span><i class="fa fa-calendar" aria-hidden="true"></i>  13 giờ trước</span>
+                <span><i class="fa fa-comments-o" aria-hidden="true"></i> 29 bình luận</span>
+        </div>
+    </div>
+</div>
+{% endif %}
+
+<div class="container">
+  <ul class="breadcrumb hidden">
+    {% for breadcrumb in breadcrumbs %}
+    <li><a href="{{ breadcrumb.href }}">{{ breadcrumb.text }}</a></li>
+    {% endfor %}
+  </ul>
+  <div class="row">{{ column_left }}
+    {% if column_left and column_right %}
+    {% set class = 'col-sm-6' %}
+    {% elseif column_left or column_right %}
+    {% set class = 'col-sm-9' %}
+    {% else %}
+    {% set class = 'col-sm-12' %}
+    {% endif %}
+    <div id="content" class="{{ class }}">
+
+      {{ content_top }}
+      <div class="content_blog {% if cover %}artrating{% endif %}">
+
+
+      {% if not cover %}
+      <h1 class="titledetail">{{ heading_title }}</h1>
+      <div class="">
+        <div class="userdetail">
+          <a href="/tin-tuc/profile/1996250">
+                  <img width="20" height="20" data-src="https://graph.facebook.com/615412281973813/picture" src="https://graph.facebook.com/615412281973813/picture">
+              Nguyễn Nhật</a>
+            <span> <i class="fa fa-calendar" aria-hidden="true"></i> 2 ngày trước</span>
+                <span onclick="ScrollTo('#comment')"> <i class="fa fa-comments-o" aria-hidden="true"></i> 17 bình luận</span>
+
+        </div>
+      </div>
+        <img src="{{ image }}" alt="{{ heading_title }}">
+      {% endif %}
+
+      <div class="blog_description">
+
+          {{ description }}
+      </div>
+
+
+
+      {% if blogs %}
+      <h5 class="titlerelate">Bài viết liên quan</h5>
+      <div class="row related_blogs">
+
+        {% for blog in blogs %}
+        <div class="blog-layout blog-grid col-lg-4 col-md-4 col-sm-6 col-xs-6">
+          <div class="blog-thumb">
+            <div class="image"><a href="{{ blog.href }}"><img src="{{ blog.thumb }}" alt="{{ blog.name }}" title="{{ blog.name }}" class="img-responsive" /></a></div>
+            <div>
+              <div class="caption">
+                <h4><a href="{{ blog.href }}">{{ blog.name }}</a></h4>
+                <p class="desc hidden">{{ blog.description }}</p>
+                <div class="timepost"> <span>{{ blog.date }}</span> <span class="namecate">{{ heading_title }}</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      {% endif %}
+        </div>
+    {{ content_bottom }}</div>
+    {{ column_right }}</div>
+</div>
+{{ footer }}
